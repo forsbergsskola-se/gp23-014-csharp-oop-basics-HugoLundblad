@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gp23-104-csharp-oop-basics-HugoLundblad", "gp23-104-csharp-oop-basics-HugoLundblad\gp23-104-csharp-oop-basics-HugoLundblad.csproj", "{137FF896-185D-438B-B928-6363AC7D7E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.1Classes", "P1.1Classes\P1.1Classes.csproj", "{B53F48E6-D0B1-4A37-94E1-7A61392B869E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1People", "P1People\P1People.csproj", "{3107B49D-F04B-41B4-A33E-B5323546984D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.1PlayerGold", "P2.1PlayerGold\P2.1PlayerGold.csproj", "{4DFE0783-8204-4B49-A2B8-0A6B6DE66EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.2ItemValues", "P2.2ItemValues\P2.2ItemValues.csproj", "{AB222F78-4000-4306-B92C-B4DC8256CD4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2Fields", "P2Fields\P2Fields.csproj", "{8722B3FD-2AE2-4922-8920-9D398AD52529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137FF896-185D-438B-B928-6363AC7D7E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137FF896-185D-438B-B928-6363AC7D7E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137FF896-185D-438B-B928-6363AC7D7E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137FF896-185D-438B-B928-6363AC7D7E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53F48E6-D0B1-4A37-94E1-7A61392B869E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53F48E6-D0B1-4A37-94E1-7A61392B869E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53F48E6-D0B1-4A37-94E1-7A61392B869E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53F48E6-D0B1-4A37-94E1-7A61392B869E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3107B49D-F04B-41B4-A33E-B5323546984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3107B49D-F04B-41B4-A33E-B5323546984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3107B49D-F04B-41B4-A33E-B5323546984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3107B49D-F04B-41B4-A33E-B5323546984D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFE0783-8204-4B49-A2B8-0A6B6DE66EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFE0783-8204-4B49-A2B8-0A6B6DE66EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFE0783-8204-4B49-A2B8-0A6B6DE66EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFE0783-8204-4B49-A2B8-0A6B6DE66EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB222F78-4000-4306-B92C-B4DC8256CD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB222F78-4000-4306-B92C-B4DC8256CD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB222F78-4000-4306-B92C-B4DC8256CD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB222F78-4000-4306-B92C-B4DC8256CD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8722B3FD-2AE2-4922-8920-9D398AD52529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8722B3FD-2AE2-4922-8920-9D398AD52529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8722B3FD-2AE2-4922-8920-9D398AD52529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8722B3FD-2AE2-4922-8920-9D398AD52529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
