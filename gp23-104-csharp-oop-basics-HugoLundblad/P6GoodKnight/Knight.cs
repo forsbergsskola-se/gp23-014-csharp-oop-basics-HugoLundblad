@@ -20,7 +20,5 @@ public class Knight
             
         }
         target.GetHit(Sword);
-        }
-
     }
 }
